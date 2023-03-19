@@ -1,0 +1,15 @@
+{
+    "Age":35,
+    "Gender":2,
+    "Ethnicity":2,
+    "Profession":2,
+    "BMI Score":21.6,
+    "Salary":2773371,
+    "Bed Time":6.75,
+    "Mood":1,
+    "Average Sleep":6.95,
+    "Number of Steps":7506,
+    "workspace duration":7,
+    "workspace interaction":3,
+    "Burnout": 49
+}
